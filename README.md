@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A full stack developer from Canada</h3>
 
-<p align="left"> <a href="https://twitter.com/_ryanpilar_" target="blank"><img src="https://img.shields.io/twitter/follow/_ryanpilar_?logo=twitter&style=for-the-badge" alt="_ryanpilar_" /></a> </p>
-
 - 🔭 I’m currently working on [MWI](https://github.com/ryanpilar/marilyns-windows)
 
 - 🌱 I’m currently learning about **social network graphs**
