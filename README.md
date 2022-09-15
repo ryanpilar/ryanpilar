@@ -4,15 +4,15 @@
 
 - 🔭 I’m currently working on [MWI](https://github.com/ryanpilar/marilyns-windows)
 
-- 🌱 I’m currently learning about **social network graphs**
+- 🌱 I’m currently learning about **social network graphs** and **farm automation**
 
 - 👨‍💻 Some of my projects are available at [https://ryan-pilar.netlify.app/](https://ryan-pilar.netlify.app/)
 
 - 💬 Ask me about **mongo, react, document automation, anything website**
 
-- 📫 How to reach me **ryan_pilar@outook.com**
+- 📫 How to reach me: **ryan_pilar@outook.com**
 
-- ⚡ Fun fact **My dog tweets more than she barks**
+- ⚡ Fun fact: **My dog tweets more than she barks**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
