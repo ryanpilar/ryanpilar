@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
-<h3 align="">A full stack developer from Canada</h3>
+<h3 align="">I'm a full stack developer from Canada</h3>
 
 
 - 🔭 I’m currently working on [MWI](https://github.com/ryanpilar/marilyns-windows)
