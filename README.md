@@ -2,7 +2,7 @@
 <h3 align="">I'm a full stack developer from Canada</h3>
 
 
-- 🔭 I’m currently working on [MWI](https://github.com/ryanpilar/marilyns-windows)
+- 🔭 I’m currently working on [MWI](https://github.com/ryanpilar/marilyns-windows-2)
 
 - 🌱 I’m currently learning about **social network graphs** and **farm automation**
 
