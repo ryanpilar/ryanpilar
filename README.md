@@ -5,7 +5,7 @@
 
 - 🎨 Follow me as I build a progressive e-commerce store with snipcart: [Real-Peeps](https://github.com/ryanpilar/real-peeps-2)
 
-- 💼 I’m also working on [ACMG Course Books](https://github.com/ryanpilar/ACMG-coursebooks)!
+- 💼 Check out a demo of [ACMG Course Books](https://github.com/ryanpilar/ACMG-coursebooks)!
 
 - 🌱 I’m currently learning about **social network graphs** and **farm automation**
 
