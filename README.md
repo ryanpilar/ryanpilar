@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="">I'm a full stack developer from Canada</h3>
 
-- 🔭 Check out something i just finished: [MWI](https://github.com/ryanpilar/marilyns-windows-2)
-
-- 🎨 Follow me as I build a progressive e-commerce store with snipcart: [Real-Peeps](https://github.com/ryanpilar/real-peeps-2)
-
-- 💼 Check out a demo of [ACMG Course Books](https://github.com/ryanpilar/ACMG-coursebooks)!
+- 🔭 Check out some things I helped build: [MWI](https://github.com/ryanpilar/marilyns-windows-2), [Flourish]((https://www.flourishacademy.ca/)), [Canmore Holidays](https://canmoreholidayrental.com/),[Shiftconnect](https://www.shiftconnect.com/), [Explore Banff](https://www.explorebanff.com/), [Mint Condition](https://www.mintcondition.ca/)
 
 - 🌱 I’m currently learning about **social network graphs** and **farm automation**
 
 - 👨‍💻 Some of my projects are available at [https://ryan-pilar.netlify.app/](https://ryan-pilar.netlify.app/)
 
-- 💬 Ask me about **mongo, react, document automation, anything website**
-
-- 📫 How to reach me: **ryan_pilar@outook.com**
+- 💬 Ask me about **mongo, react, ai, speghetti & cheesecakes, or pretty much anything website**
 
 - ⚡ Fun fact: **My dog tweets more than she barks**
 
