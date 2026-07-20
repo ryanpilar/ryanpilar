@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="">I'm a full stack developer from Canada</h3>
 
-- 🔭 Check out some things I helped build: [MWI](https://github.com/ryanpilar/marilyns-windows-2), [Flourish]((https://www.flourishacademy.ca/)), [Canmore Holidays](https://canmoreholidayrental.com/),[Shiftconnect](https://www.shiftconnect.com/), [Explore Banff](https://www.explorebanff.com/), [Mint Condition](https://www.mintcondition.ca/)
+- 🔭 Check out some things I helped build: [MWI](https://github.com/ryanpilar/marilyns-windows-2), [Flourish](https://www.flourishacademy.ca/), [Canmore Holidays](https://canmoreholidayrental.com/),[Shiftconnect](https://www.shiftconnect.com/), [Explore Banff](https://www.explorebanff.com/), [Mint Condition](https://www.mintcondition.ca/)
 
 - 🌱 I’m currently learning about **social network graphs** and **farm automation**
 
