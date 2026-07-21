@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning about **social network graphs** and **farm automation**
 
-- 👨‍💻 Some of my projects are available at [https://ryan-pilar.netlify.app/](https://ryan-pilar.netlify.app/)
-
 - 💬 Ask me about **mongo, react, ai, speghetti & cheesecakes, or pretty much anything website**
 
 - ⚡ Fun fact: **My dog tweets more than she barks**
